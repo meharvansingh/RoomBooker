@@ -1,3 +1,6 @@
+# For some reason GitHub hasn't updated my most recent changes even when I've pushed...
+# The new changes completely changes how the program handles all the elements on the website
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
